@@ -1645,6 +1645,10 @@ Table of contents
     margin-top: -40px;
     box-shadow: 2px 2px 10px #7f94ae;
 }
+#demo-calls .pull-left h1 a {
+    font-style: italic;
+    color: #224e87 !important;
+}
 
  /*======= 11. Responsive =======*/
  

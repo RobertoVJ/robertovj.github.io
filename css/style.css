@@ -1630,6 +1630,19 @@ Table of contents
  .lower-footer p {
      color: #dadada;
  }
+
+#demo-calls .pull-left {
+    background: #d3e5fc;
+    padding: 30px 30px 40px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+#demo-calls .pull-right {
+    background: #224e87;
+    padding: 30px 30px 50px;
+    border-radius: 10px;
+}
+
  /*======= 11. Responsive =======*/
  
  @media (min-width: 768px) {

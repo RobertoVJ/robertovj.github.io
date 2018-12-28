@@ -1134,6 +1134,16 @@ Table of contents
      font-size: 13px;
      color: #98a6ad;
  }
+
+ .pricing-column .plan-subscribe {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    font-style: italic;
+    font-size: 13px;
+    color: #98a6ad;
+ }
  
  .pricing-column .plan-stats {
      position: relative;

@@ -1633,14 +1633,17 @@ Table of contents
 
 #demo-calls .pull-left {
     background: #d3e5fc;
-    padding: 30px 30px 40px;
+    padding: 50px 30px 60px;
     border-radius: 10px;
     margin-top: 50px;
+    box-shadow: 2px 2px 10px #224e87;
 }
 #demo-calls .pull-right {
     background: #224e87;
-    padding: 30px 30px 50px;
+    padding: 50px 50px 70px;
     border-radius: 10px;
+    margin-top: -40px;
+    box-shadow: -2px -2px 10px #7f94ae;
 }
 
  /*======= 11. Responsive =======*/

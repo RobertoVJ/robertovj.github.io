@@ -1855,6 +1855,12 @@ Table of contents
          margin-left: 10px;
      }
  }
+@media (max-width: 640px) {
+     #software-toolkit .soft-tool-subheading h4 {
+	display: block;
+	margin: 0 auto 10px;
+     }
+}
  /*======= 12. Default Color Skin =======*/
  
  .back-to-top:hover,

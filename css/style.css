@@ -2440,7 +2440,7 @@ span.btn-sub-text {
     #test5 h3 {
         font-weight: normal;
         font-size: 16px;
-        width: 310px;
+        width: 100%;
 	letter-spacing: 0.8px;
         margin-left: 0px;
     }
@@ -2449,8 +2449,7 @@ span.btn-sub-text {
         color: rgb(249, 250, 252);
         font-weight: normal;
         font-size: 20px;        
-        width: 310px;
-        margin-left: -70px;
+        margin: 20px 0;
     }
 
     #test6 img {

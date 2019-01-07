@@ -2442,7 +2442,7 @@ span.btn-sub-text {
         font-size: 16px;
         width: 310px;
 	letter-spacing: 0.8px;
-        margin-left: -70px;
+        margin-left: 0px;
     }
     
     #test5 h4 {

@@ -1688,12 +1688,12 @@ Table of contents
 }
 #pricing .plan-stats li {
     position: relative;
-    padding-left: 35px;
+    padding-left: 25px;
 }
 #pricing .plan-stats li i {
     position: absolute;
     left: 0;
-    top: 10px;
+    top: 3px;
 }
 
  /*======= 11. Responsive =======*/

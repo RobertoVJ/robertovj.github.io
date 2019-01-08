@@ -1690,7 +1690,7 @@ Table of contents
     position: relative;
     padding-left: 35px;
 }
-#pricing .plan-stats li .fa {
+#pricing .plan-stats li i {
     position: absolute;
     left: 0;
     top: 10px;

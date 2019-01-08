@@ -1686,6 +1686,15 @@ Table of contents
 #software-toolkit .featureButton {
     margin: 0 auto;
 }
+#pricing .plan-stats li {
+    position: relative;
+    padding-left: 35px;
+}
+#pricing .plan-stats li .fa {
+    position: absolute;
+    left: 0;
+    top: 10px;
+}
 
  /*======= 11. Responsive =======*/
  

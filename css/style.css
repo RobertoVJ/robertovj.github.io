@@ -1834,6 +1834,24 @@ Table of contents
     display: block;
     padding: 24px 0;
 }
+#guarantee .mny-grt {
+    padding-left: 30px;
+}
+#guarantee .mny-grt h2 {
+    font-size: 52px;
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+    font-weight: 600;
+    display: block;
+}
+#guarantee .mny-grt p {
+    font-size: 23px;
+    color: #fff;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    line-height: 33px;
+    display: block;
+}
  /*======= 11. Responsive =======*/
  
  @media (min-width: 768px) {

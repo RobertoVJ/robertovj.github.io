@@ -1695,6 +1695,29 @@ Table of contents
     left: 0;
     top: 3px;
 }
+#add-to-cart .cart-sm {
+    z-index: 1;
+    position: relative;
+    padding: 90px 0;
+}
+#add-to-cart .cart-sm .cart-bnr {
+    background-color: #fff;
+    padding: 50px;
+    text-align: center;
+}
+#add-to-cart .cart-sm .cart-bnr h1 {
+    display: block;
+    font-size: 86px;
+    color: #4891ef;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    position: relative;
+}
+#add-to-cart .cart-sm .cart-bnr h1 span {
+    display: block;
+    font-size: 21px;
+    font-weight: 400;
+}
 
  /*======= 11. Responsive =======*/
  

@@ -31,6 +31,8 @@
 		<![endif]-->
 	<!-- Favicon  -->
 	<link rel="icon" href="../img/favicon.ico">
+	<link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_directory_uri(); ?>/slick/slick.css"/>
+	<link rel="stylesheet" type="text/css" href="<?php echo get_stylesheet_directory_uri(); ?>/slick/slick-theme.css"/>
 </head>
 
 <body data-spy="scroll" data-target="#navbar-menu" id="darya">
@@ -153,27 +155,52 @@ over the next 14 days. well happily refund 100% of your money. No questions aske
 			<!-- end row -->
 		</div>
 	</section>
-		<!-- END DEMO CALLS -->
+		<!-- END Guarantee -->
 		
-		<!-- / Contact section -->
-		<section class="section contact-section" id="contact">
-			<div class="container contact-info">
+		<!-- / Testimonials section -->
+		<section id="testimonial">
+			<div class="container">
 				<div class="row">
-					<div class="col-md-12">
-						<h1>360 Virtual Tours With CloudPano.com. Get Started Today. </h2>
-							<p class="title-sub">Try it free. No credit card required. Instant set-up.</p>
-					</div>
-				</div>
-				<div id="subscribe" class="row">
-					<div class="col-md-12">
-						<form class="subscribe-form">
-							<a href="http://app.cloudpano.com" class="btn btn-white-bordered">Try it free</a>
-						</form>
+					<div class="col-lg-12 tsm">
+						  <div class="tsm-sl">
+							<div class="inr-sl">
+								<img src="../img/author.jpg">
+								<h3>Logan Odom<span>Medford, Oregon </span></h3>
+								<p>Just wanted to send you a quick note and let you know how excited I am for CloudPano and the technologies that you are implementing. I believe it is a tool that can not only help me build my business but can truly add value in listing appointments and beyond. Being able to have a full 360 tour of my listings and show sellers how I can take marketing of their home to the next level is HUGE! I appreciate you and your team helping me out along the way answering any and all questions that I have had so far and I am excited to continue to implement and grow my business with the help of you and your team </p>
+							</div>
+						  </div>
+						  <div class="tsm-sl">
+							<div class="inr-sl">
+								<img src="../img/author.jpg">
+								<h3>Logan Odom<span>Medford, Oregon </span></h3>
+								<p>Just wanted to send you a quick note and let you know how excited I am for CloudPano and the technologies that you are implementing. I believe it is a tool that can not only help me build my business but can truly add value in listing appointments and beyond. Being able to have a full 360 tour of my listings and show sellers how I can take marketing of their home to the next level is HUGE! I appreciate you and your team helping me out along the way answering any and all questions that I have had so far and I am excited to continue to implement and grow my business with the help of you and your team </p>
+							</div>
+						  </div>
+						 <div class="tsm-sl">
+							<div class="inr-sl">
+								<img src="../img/author.jpg">
+								<h3>Logan Odom<span>Medford, Oregon </span></h3>
+								<p>Just wanted to send you a quick note and let you know how excited I am for CloudPano and the technologies that you are implementing. I believe it is a tool that can not only help me build my business but can truly add value in listing appointments and beyond. Being able to have a full 360 tour of my listings and show sellers how I can take marketing of their home to the next level is HUGE! I appreciate you and your team helping me out along the way answering any and all questions that I have had so far and I am excited to continue to implement and grow my business with the help of you and your team </p>
+							</div>
+						  </div>
 					</div>
 				</div>
 			</div>
 
 		</section>
+		<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+		<script type="text/javascript" src="<?php echo get_stylesheet_directory_uri(); ?>/slick/slick.js"></script>
+		  <script type="text/javascript">
+		    $(document).ready(function(){
+			$('.tsm-sl').slick({
+			  slidesToShow: 1,
+			  slidesToScroll: 1,
+			  dots: true,
+			arrows: false;
+			});
+		    });
+		  </script>
+		
 		<!-- / container -->
 		<!-- FOOTER -->
 		<footer class="section footer">

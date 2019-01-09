@@ -1829,6 +1829,11 @@ Table of contents
     color: #ad9f91;
     display: block;
 }
+#guarantee {
+    background-color: #69abff;
+    display: block;
+    padding: 24px 0;
+}
  /*======= 11. Responsive =======*/
  
  @media (min-width: 768px) {

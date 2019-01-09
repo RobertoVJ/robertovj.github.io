@@ -1735,6 +1735,9 @@ Table of contents
     color: #555;
     display: block;
 }
+.clear {
+     clear: both;
+}
  /*======= 11. Responsive =======*/
  
  @media (min-width: 768px) {

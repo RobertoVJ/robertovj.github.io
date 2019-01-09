@@ -1738,6 +1738,44 @@ Table of contents
 .clear {
      clear: both;
 }
+#add-to-cart .cart-sm .cart-bnr .pricing-sec {
+    display: block;
+    clear: both;
+    margin-top: 70px;
+}
+#add-to-cart .cart-sm .cart-bnr .pricing-sec .pricing p {
+    font-size: 16px;
+    color: #4891ef;
+    display: block;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-family: 'Lato', sans-serif;
+    min-height: 30px;
+    margin: 0;
+}
+#add-to-cart .cart-sm .cart-bnr .pricing-sec .pricing .prc-box {
+    border: 2px solid #4891ee;
+    border-radius: 10px;
+    max-width: 312px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 20px;
+    position: relative;
+}
+#add-to-cart .cart-sm .cart-bnr .pricing-sec .pricing .prc-box h3 {
+    font-size: 46px;
+    display: block;
+    color: #4891ef;
+    font-weight: 700;
+    margin: 0;
+    padding-bottom: 10px;
+}
+#add-to-cart .cart-sm .cart-bnr .pricing-sec .pricing .prc-box span {
+    display: block;
+    font-size: 25px;
+    color: #868686;
+    font-weight: 400;
+}
  /*======= 11. Responsive =======*/
  
  @media (min-width: 768px) {

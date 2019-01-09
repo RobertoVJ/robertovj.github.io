@@ -1704,6 +1704,8 @@ Table of contents
     background-color: #fff;
     padding: 50px;
     text-align: center;
+    border-radius: 10px;
+    border: 2px solid #3875c4;
 }
 #add-to-cart .cart-sm .cart-bnr h1 {
     display: block;
@@ -1712,13 +1714,27 @@ Table of contents
     font-family: 'Lato', sans-serif;
     font-weight: 900;
     position: relative;
+    margin-bottom: 60px;
+}
+#add-to-cart .cart-sm .cart-bnr h1 img {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    bottom: -30px;
 }
 #add-to-cart .cart-sm .cart-bnr h1 span {
     display: block;
     font-size: 21px;
     font-weight: 400;
 }
-
+#add-to-cart .cart-sm .cart-bnr p {
+    font-size: 25px;
+    line-height: 30px;
+    font-weight: 300;
+    color: #555;
+    display: block;
+}
  /*======= 11. Responsive =======*/
  
  @media (min-width: 768px) {

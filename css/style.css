@@ -2038,6 +2038,18 @@ Table of contents
     min-height: 66px;
     display: block;
 }
+#qa .qa-cont .qa-dsc {
+    background-color: #69abff;
+    padding: 20px;
+    display: block;
+}
+#qa .qa-cont .qa-dsc p {
+    margin: 0;
+    font-size: 20px;
+    color: #fff;
+    line-height: 25px;
+    display: block;
+}
  /*======= 11. Responsive =======*/
  
  @media (min-width: 768px) {

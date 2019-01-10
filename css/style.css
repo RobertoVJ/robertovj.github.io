@@ -1910,6 +1910,10 @@ Table of contents
     position: absolute;
     line-height: 24px;
 }
+#add-to-cart {
+    height: auto;
+    padding-bottom: 80px;
+}
  /*======= 11. Responsive =======*/
  
  @media (min-width: 768px) {

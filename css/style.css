@@ -1995,6 +1995,21 @@ Table of contents
     min-height: 30px;
     margin: 0;
 }
+#qa {
+    background: repeating-linear-gradient( -45deg, #e4e4e4 , #fff 3px, #fff 1px, #fff 10px );
+    padding: 50px 0;
+    text-align: center;
+    display: block;
+}
+#qa h2 {
+    font-size: 75px;
+    line-height: 62px;
+    color: #69abff;
+    display: block;
+}
+#qa h2 span {
+    font-weight: 900;
+}
  /*======= 11. Responsive =======*/
  
  @media (min-width: 768px) {

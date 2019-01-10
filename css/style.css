@@ -2104,12 +2104,58 @@ Table of contents
     display: block;
     min-height: 50px;
 }
-    #tsm-sl .inr-sl {
+#tsm-sl .inr-sl {
         display: block;
         width: 100%;
         height: auto;
-    }
-
+ }
+#tsm {
+    padding: 50px 0;
+    display: block;
+}
+#tsm #testimonials img {
+    display: block;
+    margin: 0 auto;
+}
+#tsm #testimonials h3 {
+    font-size: 25px;
+    color: #373737;
+    font-weight: 600;
+    line-height: 29px;
+    margin-bottom: 30px;
+}
+#tsm #testimonials h3 span {
+    display: block;
+    font-size: 18px;
+    font-weight: 400;
+}
+#tsm #testimonials p {
+    font-size: 24px;
+    color: #373737;
+    font-weight: 400;
+    line-height: 30px;
+}
+#tsm #testimonials .owl-controls.clickable {
+    margin: 0;
+}
+#tsm #testimonials .owl-controls.clickable .owl-pagination {
+    position: relative;
+}
+#tsm #testimonials .owl-controls.clickable .owl-page span {
+    border: 2px solid #69abff;
+    height: 16px;
+    width: 16px;
+    margin: 0 6px;
+}
+#tsm #testimonials .owl-controls.clickable .owl-page.active span {
+    background-color: #69abff;
+    opacity: 1;
+    width: 20px;
+    height: 20px;
+}
+#tsm #testimonials .owl-controls.clickable .owl-page span:hover {
+    opacity: 0.8;
+}
  /*======= 11. Responsive =======*/
 
  @media (min-width: 768px) {
@@ -2893,5 +2939,3 @@ span.btn-sub-text {
 	padding-right:20px;
 	color: #fff;
 }
-
-

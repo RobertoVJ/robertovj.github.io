@@ -2116,6 +2116,7 @@ Table of contents
 #tsm #testimonials img {
     display: block;
     margin: 0 auto;
+    border-radius: 50%;
 }
 #tsm #testimonials h3 {
     font-size: 25px;
@@ -2134,6 +2135,7 @@ Table of contents
     color: #373737;
     font-weight: 400;
     line-height: 30px;
+    text-align: center;
 }
 #tsm #testimonials .owl-controls.clickable {
     margin: 0;

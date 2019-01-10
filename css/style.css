@@ -2137,6 +2137,8 @@ Table of contents
 }
 #tsm #testimonials .owl-controls.clickable {
     margin: 0;
+    padding-top: 50px;
+    display: block;
 }
 #tsm #testimonials .owl-controls.clickable .owl-pagination {
     position: relative;

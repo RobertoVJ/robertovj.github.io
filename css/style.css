@@ -2104,6 +2104,12 @@ Table of contents
     display: block;
     min-height: 50px;
 }
+    #tsm-sl .inr-sl {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+
  /*======= 11. Responsive =======*/
 
  @media (min-width: 768px) {

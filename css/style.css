@@ -2018,7 +2018,7 @@ Table of contents
     border: 3px solid #69abff;
     position: relative;
     border-radius: 10px;
-    margin: 0 auto;
+    margin: 0 auto 100px;
     max-width: 320px;
 }
 #qa .qa-cont img {
@@ -2043,12 +2043,20 @@ Table of contents
     padding: 20px;
     display: block;
 }
+#qa .lst1 .qa-dsc p {
+    padding-top: 11px;
+}
 #qa .qa-cont .qa-dsc p {
     margin: 0;
     font-size: 20px;
     color: #fff;
     line-height: 25px;
     display: block;
+    min-height: 50px;
+}
+#qa .lst5 .qa-cont .qa-dsc p {
+    font-size: 18px;
+    line-height: 18px;
 }
  /*======= 11. Responsive =======*/
  

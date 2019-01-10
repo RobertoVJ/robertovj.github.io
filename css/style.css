@@ -2010,6 +2010,10 @@ Table of contents
 #qa h2 span {
     font-weight: 900;
 }
+#qa .qa-hdr {
+    margin-bottom: 60px;
+    display: block;
+}
  /*======= 11. Responsive =======*/
  
  @media (min-width: 768px) {

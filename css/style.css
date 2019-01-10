@@ -1889,7 +1889,7 @@ Table of contents
     width: 49%;
     vertical-align: top;
     position: relative;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 #access .acs-sec .acs-lst ul li img {
     position: absolute;
@@ -1897,14 +1897,18 @@ Table of contents
     top: 0;
 }
 #access .acs-sec .acs-lst ul li p {
-    font-size: 32px;
+    font-size: 30px;
     line-height: 34px;
     padding-left: 45px;
+    position: relative;
+    margin: 0;
 }
 #access .acs-sec .acs-lst ul li p span {
-    font-size: 26px;
+    font-size: 24px;
     display: block;
     font-weight: 300;
+    position: absolute;
+    line-height: 24px;
 }
  /*======= 11. Responsive =======*/
  

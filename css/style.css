@@ -2058,8 +2058,19 @@ Table of contents
     font-size: 18px;
     line-height: 18px;
 }
+#qa .lst5 .qa-cont .qa-dsc {
+    padding: 9px 20px;
+}
+#qa .lst6 .qa-dsc {
+    padding: 15px;
+}
+#qa .lst6 .qa-dsc p {
+    font-size: 18px;
+    line-height: 20px;
+}
+
  /*======= 11. Responsive =======*/
- 
+
  @media (min-width: 768px) {
      .nav-custom-left {
          margin-left: 3%;

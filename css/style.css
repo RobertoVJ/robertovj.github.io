@@ -2011,7 +2011,7 @@ Table of contents
     font-weight: 900;
 }
 #qa .qa-hdr {
-    margin-bottom: 60px;
+    margin-bottom: 100px;
     display: block;
 }
 #qa .qa-cont {
@@ -2068,7 +2068,42 @@ Table of contents
     font-size: 18px;
     line-height: 20px;
 }
-
+#qa .qa-cont-inr .qa-cont-fj {
+    border: 3px solid #69abff;
+    position: relative;
+    border-radius: 10px;
+    margin: 0 auto 100px;
+    max-width: 640px;
+}
+#qa .qa-cont-inr .qa-cont-fj img {
+    position: absolute;
+    top: -60px;
+    left: -60px;
+}
+#qa .qa-cont-inr .qa-cont-fj .qa-tt {
+    background-color: #f2f2f2;
+    border-radius: 5px 5px 0 0;
+    padding: 30px 110px;
+}
+#qa .qa-cont-inr .qa-cont-fj .qa-tt p {
+    margin: 0;
+    font-size: 21px;
+    color: #373737;
+    min-height: 66px;
+    display: block;
+}
+#qa .qa-cont-inr .qa-cont-fj .qa-dsc {
+    background-color: #69abff;
+    padding: 20px;
+}
+#qa .qa-cont-inr .qa-cont-fj .qa-dsc p {
+    margin: 0;
+    font-size: 20px;
+    color: #fff;
+    line-height: 25px;
+    display: block;
+    min-height: 50px;
+}
  /*======= 11. Responsive =======*/
 
  @media (min-width: 768px) {

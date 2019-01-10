@@ -2014,6 +2014,30 @@ Table of contents
     margin-bottom: 60px;
     display: block;
 }
+#qa .qa-cont {
+    border: 3px solid #69abff;
+    position: relative;
+    border-radius: 10px;
+    margin: 0 auto;
+    max-width: 320px;
+}
+#qa .qa-cont img {
+    position: absolute;
+    top: -60px;
+    left: -60px;
+}
+#qa .qa-cont .qa-tt {
+    background-color: #f2f2f2;
+    border-radius: 5px 5px 0 0;
+    padding: 30px 40px;
+}
+#qa .qa-cont .qa-tt p {
+    margin: 0;
+    font-size: 21px;
+    color: #373737;
+    min-height: 66px;
+    display: block;
+}
  /*======= 11. Responsive =======*/
  
  @media (min-width: 768px) {

@@ -1913,6 +1913,23 @@ Table of contents
 #add-to-cart {
     height: auto;
 }
+#plans {
+    background-color: #69abff;
+    color: #fff;
+    text-align: center;
+    padding: 60px 0;
+    display: block;
+}
+#plans .plans-sec {
+    display: block;
+    margin-bottom: 50px;
+}
+#plans .plans-sec p {
+    font-size: 25px;
+    line-height: 30px;
+    font-weight: 300;
+    display: block;
+}
  /*======= 11. Responsive =======*/
  
  @media (min-width: 768px) {

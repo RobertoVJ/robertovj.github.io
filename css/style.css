@@ -2630,6 +2630,7 @@ Table of contents
 	#cta-1 .featureButton {
 	    font-size: 25px;
 	    padding: 30px 50px;
+	    margin-top: 0;
 	}
 	#cta-1 {
 	    padding-bottom: 0;

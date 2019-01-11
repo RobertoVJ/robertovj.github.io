@@ -2186,6 +2186,78 @@ Table of contents
      .about-story img {
          margin: 0 auto;
      }
+	/*add to cart responsive 990px*/
+
+	#add-to-cart .cart-sm .cart-bnr h1 {
+	    font-size: 60px;
+	}
+	.col-lg-6 {
+	    margin-bottom: 30px;
+	}
+	#add-to-cart .cart-sm .cart-bnr .pricing-sec .pricing .prc-box h3 {
+	    font-size: 40px;
+	}
+	#add-to-cart .cart-sm .cart-bnr .pricing-sec .pricing .prc-box span {
+	    display: block;
+	    font-size: 23px;
+	    color: #868686;
+	    font-weight: 400;
+	}
+	#guarantee .col-lg-2 {
+	    text-align: center;
+	}
+	#guarantee .mny-grt h2 {
+	    font-size: 40px;
+	    text-align: center;
+	}
+	#guarantee .mny-grt p {
+	    text-align: center;
+	}
+	#access .acs-sec h2 {
+	    font-size: 55px;
+	}
+	#access .acs-sec h2 span {
+	    font-size: 45px;
+	}
+	#access .acs-sec .acs-lst ul li p {
+	    font-size: 25px;
+	    line-height: 30px;
+	}
+	#access .acs-sec .acs-lst ul li p span {
+	    font-size: 20px;
+	}
+	#plans .prc-box h3 {
+	    font-size: 40px;
+	}
+	#plans .prc-box span {
+	    font-size: 23px;
+	}
+	#qa h2 {
+	    font-size: 65px;
+	}
+	#qa .qa-cont-inr .qa-cont-fj {
+	    max-width: 320px;
+	}
+	#qa .qa-cont-inr .qa-cont-fj .qa-tt {
+	    padding: 30px 40px;
+	}
+	#qa .qa-cont-inr .qa-cont-fj .qa-dsc p {
+	    font-size: 16px;
+	    line-height: 18px;
+	}
+	.section.footer .col-sm-12 {
+	    width: 25%;
+	}
+	#footer1 ul,
+	#footer2 ul {
+	    padding: 0px;
+	}
+	.lower-footer .col-sm-4 {
+	    width: 100%;
+	}
+	.lower-footer .col-sm-2 {
+	    width: 100%
+	} 
  }
  
  @media (max-width: 767px) {

@@ -2237,6 +2237,7 @@ Table of contents
 	}
 	#qa .qa-cont-inr .qa-cont-fj {
 	    max-width: 320px;
+	    marging: 0 auto;
 	}
 	#qa .qa-cont-inr .qa-cont-fj .qa-tt {
 	    padding: 30px 40px;
@@ -2258,6 +2259,10 @@ Table of contents
 	.lower-footer .col-sm-2 {
 	    width: 100%
 	} 
+	 .lower-footer p {
+	    text-align: center;
+	    font-size: 13px;
+	}
  }
  
  @media (max-width: 767px) {

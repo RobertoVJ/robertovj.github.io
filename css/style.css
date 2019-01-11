@@ -2451,6 +2451,80 @@ Table of contents
 	display: block;
 	margin: 0 auto 10px;
      }
+	/*add to cart responsive 640px*/
+	#add-to-cart .cart-sm .cart-bnr h1 {
+	    font-size: 45px;
+	}
+	#add-to-cart .cart-sm .cart-bnr h1 span {
+	    font-size: 18px;
+	}
+	#add-to-cart .cart-sm .cart-bnr p {
+	    font-size: 20px;
+	    line-height: 27px;
+	}
+	#add-to-cart .cart-sm .cart-bnr .pricing-sec .pricing .prc-box h3 {
+	    font-size: 30px;
+	}
+	#add-to-cart .cart-sm .cart-bnr .pricing-sec .pricing .prc-box span {
+	    font-size: 18px;
+	}
+	#guarantee .mny-grt h2 {
+	    font-size: 31px;
+	}
+	#guarantee .mny-grt p {
+	    font-size: 20px;
+	    line-height: 28px;
+	}
+	#tsm .owl-wrapper-outer .tt-content {
+	    margin-top: 10px;
+	}
+	#tsm #testimonials p {
+	    font-size: 20px;
+	}
+	#tsm #testimonials .owl-controls.clickable {
+	    padding-top: 0;
+	}
+	#access .acs-sec h2 {
+	    font-size: 40px;
+	}
+	#access .acs-sec h2 span {
+	    font-size: 30px;
+	}
+	#access .acs-sec .acs-lst ul li p {
+	    font-size: 18px;
+	    line-height: 25px;
+	}
+	#access .acs-sec .acs-lst ul li p span {
+	    font-size: 16px;
+	}
+	#plans .plans-sec p {
+	    font-size: 20px;
+	}
+	#plans .prc-box h3 {
+	    font-size: 30px;
+	}
+	#plans .prc-box span {
+	    font-size: 18px;
+	}
+	#plans {
+	    padding: 30px 0;
+	}
+	#qa h2 {
+	    font-size: 45px;
+	}
+	#qa .qa-cont .qa-tt p {
+	    font-size: 18px;
+	    min-height: 40px;
+	}
+	#qa .qa-cont {
+	    margin: 0 auto 80px;
+	}
+	#qa .qa-cont .qa-dsc p {
+	    font-size: 18px;
+	}
+	#qa .qa-cont-inr .qa-cont-fj .qa-tt p {
+	    font-size: 18px;
+	}
 }
  /*======= 12. Default Color Skin =======*/
  

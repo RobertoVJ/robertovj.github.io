@@ -1686,7 +1686,11 @@ Table of contents
 #software-toolkit .featureButton {
     margin: 0 auto;
 }
-#software-toolkit  .featureButton {
+/*CTA SECTION*/
+#cta-1 .featureButton {
+    margin: 0 auto;
+}
+#cta-1 .featureButton {
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -1708,9 +1712,10 @@ Table of contents
     font-weight: 700;
     padding: 30px 45px;
 }
-#software-toolkit {
+#cta-1 {
     padding-bottom: 50px;
 }
+/*END CTA SECTION*/
 #pricing .plan-stats li {
     position: relative;
     padding-left: 25px;

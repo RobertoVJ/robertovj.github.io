@@ -1692,6 +1692,7 @@ Table of contents
 }
 #cta-1 .featureButton:hover {
     background-color: #fff;
+    color: #72c059 !important;
 }
 #cta-1 .featureButton h1:hover {
     color: #72c059;

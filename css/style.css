@@ -2955,7 +2955,7 @@ a.anchor {
 
 
 #test2 {       
-    margin-bottom: 50px;
+    margin-bottom: 0;
     background: #4891EF !important;
     background-size: 22px 22px;
 }

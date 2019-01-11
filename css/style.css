@@ -2529,6 +2529,61 @@ Table of contents
 	    font-size: 18px;
 	}
 }
+@media (max-width: 440px) {
+	/*add to cart responsive 440px*/
+
+	#add-to-cart .cart-sm .cart-bnr h1 {
+	    font-size: 30px;
+	}
+	#add-to-cart .cart-sm .cart-bnr h1 span {
+	    font-size: 15px;
+	    padding-top: 15px;
+	}
+	#add-to-cart .cart-sm .cart-bnr p {
+	    font-size: 18px;
+	    line-height: 25px;
+	}
+	#add-to-cart .cart-sm .cart-bnr .pricing-sec .pricing .prc-box h3 {
+	    font-size: 25px;
+	}
+	#add-to-cart .cart-sm .cart-bnr .pricing-sec .pricing .prc-box span {
+	    font-size: 16px;
+	}
+	#guarantee .mny-grt h2 {
+	    font-size: 25px;
+	}
+	#guarantee .mny-grt p {
+	    font-size: 18px;
+	    line-height: 25px;
+	}
+	#tsm #testimonials p {
+	    font-size: 16px;
+	}
+	#access .acs-sec h2 {
+	    font-size: 30px;
+	}
+	#access .acs-sec h2 span {
+	    font-size: 23px;
+	    line-height: 32px;
+	}
+	#plans .prc-box h3 {
+	    font-size: 25px;
+	}
+	#plans .prc-box span {
+	    font-size: 16px;
+	}
+	#qa {
+	    padding: 20px 0 50px;
+	}
+	#access .acs-sec .acs-lst ul li {
+	    width: 100%;
+	}
+	#qa .qa-cont img,
+	#qa .qa-cont-inr .qa-cont-fj img  {
+	    left: -40px;
+	}
+
+}
  /*======= 12. Default Color Skin =======*/
  
  .back-to-top:hover,

@@ -1693,7 +1693,7 @@ Table of contents
 #cta-1 .featureButton:hover {
     background-color: #fff;
 }
-#cta-1 .featureButton:hover h1 {
+#cta-1 .featureButton h1:hover {
     color: #72c059;
 }
 #cta-1 .featureButton {

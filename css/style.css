@@ -2263,6 +2263,46 @@ Table of contents
 	    text-align: center;
 	    font-size: 13px;
 	}
+	 /*add to cart responsive 767px*/
+
+	#add-to-cart .cart-sm .cart-bnr p {
+	    font-size: 22px;
+	    line-height: 28px;
+	}
+	#add-to-cart .cart-sm .cart-bnr .pricing-sec {
+	    margin-top: 0px;
+	}
+	#add-to-cart .cart-sm {
+	    padding: 90px 0 50px;
+	}
+	#add-to-cart .cart-sm .cart-bnr .payments {
+	    margin-top: 30px;
+	}
+	#tsm {
+	    padding: 30px 0 50px;
+	}
+	#plans .plans-sec {
+	    margin-bottom: 0;
+	}
+	#qa h2 {
+	    font-size: 55px;
+	}
+	#qa .qa-hdr {
+	    margin-bottom: 80px;
+	}
+	.section.footer .col-sm-12 {
+	    width: 100%;
+	}
+	.footer .navbar-brand {
+	    left: 0;
+	}
+	.section.footer .col-sm-12 {
+	    text-align: center;
+	}
+	.footer {
+	    padding-bottom: 25px;
+	}
+
  }
  
  @media (max-width: 767px) {

@@ -2297,6 +2297,11 @@ Table of contents
 	    text-align: center;
 	    font-size: 13px;
 	}
+	 #cta-1 h1 {
+	    width: 100%;
+	    font-size: 50px;
+	    text-align: center;
+	}
 	 
  }
  
@@ -2479,6 +2484,9 @@ Table of contents
 	.footer {
 	    padding-bottom: 25px;
 	}
+	 #cta-1 h1 {
+	    font-size: 40px;
+	}
  }
 @media (max-width: 640px) {
      #software-toolkit .soft-tool-subheading h4 {
@@ -2615,6 +2623,16 @@ Table of contents
 	#qa .qa-cont img,
 	#qa .qa-cont-inr .qa-cont-fj img  {
 	    left: -40px;
+	}
+	#cta-1 h1 {
+	    font-size: 30px;
+	}
+	#cta-1 .featureButton {
+	    font-size: 25px;
+	    padding: 30px 50px;
+	}
+	#cta-1 {
+	    padding-bottom: 0;
 	}
 
 }

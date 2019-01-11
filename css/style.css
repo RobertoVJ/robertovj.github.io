@@ -2584,6 +2584,46 @@ Table of contents
 	}
 
 }
+@media (max-width: 440px) {
+	/*add to cart responsive 320px*/
+	#add-to-cart .cart-sm .cart-bnr {
+	    padding: 20px 20px 10px 20px;
+	}
+	#tsm #testimonials img {
+	    width: 60%;
+	}
+	#tsm #testimonials h3 {
+	    font-size: 20px;
+	}
+	#access {
+	    padding: 30px 0;
+	}
+	#access .acs-sec .acs-lst ul li {
+	    margin-bottom: 20px;
+	}
+	#access .acs-sec .acs-lst ul li p {
+	    font-size: 16px;
+	    line-height: 20px;
+	}
+	#access .acs-sec h2 {
+	    font-size: 23px;
+	}
+	#access .acs-sec h2 span {
+	    font-size: 18px;
+	    line-height: 28px;
+	}
+	#qa h2 {
+	    font-size: 31px;
+	    margin-top: 0;
+	}
+	#qa .qa-cont img, #qa .qa-cont-inr .qa-cont-fj img {
+	    left: 95px;
+	    top: -70px;
+	}
+	#qa .qa-cont .qa-dsc p {
+	    font-size: 15px;
+	}
+}
  /*======= 12. Default Color Skin =======*/
  
  .back-to-top:hover,

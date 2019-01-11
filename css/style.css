@@ -2584,10 +2584,14 @@ Table of contents
 	}
 
 }
-@media (max-width: 440px) {
+
+@media (max-width: 320px) {
 	/*add to cart responsive 320px*/
 	#add-to-cart .cart-sm .cart-bnr {
 	    padding: 20px 20px 10px 20px;
+	}
+	#add-to-cart .cart-sm .cart-bnr h1 {
+	    font-size: 25px;
 	}
 	#tsm #testimonials img {
 	    width: 60%;

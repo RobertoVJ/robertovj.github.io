@@ -2679,6 +2679,13 @@ Table of contents
 	#qa .qa-cont .qa-dsc p {
 	    font-size: 15px;
 	}
+	#cta-1 h1 {
+	    font-size: 28px;
+	}
+	#cta-1 .featureButton {
+	    font-size: 23px;
+	    padding: 25px 0px;
+	}
 }
  /*======= 12. Default Color Skin =======*/
  
@@ -3245,7 +3252,7 @@ span.btn-sub-text {
         margin-right: 10px;                  
         background-size: 22px 22px;
         background: #4891EF !important;
-	margin: 0 0 50px;
+	margin: 0 0 0px;
     }
 
     #test4 img {   

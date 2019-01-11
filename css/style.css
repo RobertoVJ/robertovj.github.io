@@ -2237,7 +2237,7 @@ Table of contents
 	}
 	#qa .qa-cont-inr .qa-cont-fj {
 	    max-width: 320px;
-	    marging: 0 auto;
+	    marging: 0 auto !important;
 	}
 	#qa .qa-cont-inr .qa-cont-fj .qa-tt {
 	    padding: 30px 40px;

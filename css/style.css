@@ -1688,15 +1688,15 @@ Table of contents
 }
 /*CTA SECTION*/
 #cta-1 .featureButton {
-    margin: 0 auto;
+    margin: 30px auto;
 }
 #cta-1 .featureButton {
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    width: 300px;
-    height: 38px;
+    width: 70%;
+    height: 0;
     -webkit-box-pack: center;
     -webkit-justify-content: center;
     -ms-flex-pack: center;
@@ -1704,16 +1704,20 @@ Table of contents
     -webkit-box-align: center;
     -webkit-align-items: center;
     -ms-flex-align: center;
-    align-items: center;
     border-radius: 50px;
     background-color: #72c059;
     color: #fff;
-    font-size: 30px;
+    font-size: 35px;
     font-weight: 700;
-    padding: 30px 45px;
+    padding: 35px 50px;
 }
 #cta-1 {
     padding-bottom: 50px;
+}
+#cta-1 h1 {
+    text-align: left;
+    width: 90%;
+    font-size: 50px;
 }
 /*END CTA SECTION*/
 #pricing .plan-stats li {

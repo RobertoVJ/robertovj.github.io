@@ -2455,6 +2455,9 @@ Table of contents
 	#add-to-cart .cart-sm .cart-bnr h1 {
 	    font-size: 45px;
 	}
+	#add-to-cart .cart-sm .cart-bnr h1 img {
+	    width: 100%;
+	}
 	#add-to-cart .cart-sm .cart-bnr h1 span {
 	    font-size: 18px;
 	}

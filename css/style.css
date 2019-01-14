@@ -1838,6 +1838,7 @@ Table of contents
     border-radius: 12px;
     padding: 8px;
     text-transform: uppercase;
+    text-decoration: underline;
 }
 #add-to-cart .cart-sm .cart-bnr .pricing-sec .pricing .prc-box .grn {
     position: absolute;
@@ -1855,6 +1856,7 @@ Table of contents
     padding: 8px;
     text-transform: uppercase;
     font-weight: 600;
+    text-decoration: underline;
 }
 #add-to-cart .cart-sm .cart-bnr .payments {
     margin-top: 60px;
@@ -2012,6 +2014,7 @@ Table of contents
     border-radius: 12px;
     padding: 8px;
     text-transform: uppercase;
+    text-decoration: underline;
 }
 #plans .prc-box .grn {
     position: absolute;
@@ -2029,6 +2032,7 @@ Table of contents
     padding: 8px;
     text-transform: uppercase;
     font-weight: 600;
+    text-decoration: underline;
 }
 #plans .plans-list p {
     font-size: 16px;

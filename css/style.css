@@ -2599,11 +2599,15 @@ Table of contents
 	#qa .qa-cont-inr .qa-cont-fj .qa-tt p {
 	    font-size: 18px;
 	}
+	#add-to-cart .cart-sm .cart-bnr h1 .tt-br {
+	    display: block;
+	    margin-bottom: 0;
+	}
 }
 @media (max-width: 440px) {
 	/*add to cart responsive 440px*/
 
-	#add-to-cart .cart-sm .cart-bnr h1 {
+	#add-to-cart .cart-sm .cart-bnr h1,#add-to-cart .cart-sm .cart-bnr h1 .tt-br {
 	    font-size: 30px;
 	}
 	#add-to-cart .cart-sm .cart-bnr h1 span {
@@ -2673,7 +2677,7 @@ Table of contents
 	#add-to-cart .cart-sm .cart-bnr {
 	    padding: 20px 20px 10px 20px;
 	}
-	#add-to-cart .cart-sm .cart-bnr h1 {
+	#add-to-cart .cart-sm .cart-bnr h1,#add-to-cart .cart-sm .cart-bnr h1 .tt-br {
 	    font-size: 25px;
 	}
 	#tsm #testimonials img {

@@ -2216,6 +2216,15 @@ Table of contents
     font-size: 85%;
     line-height: 18px;
 }
+#add-to-cart .cart-sm .cart-bnr h1 .tt-br {
+    display: inline;
+    font-size: 86px;
+    color: #4891ef;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+    position: relative;
+    margin-bottom: 60px;
+}
  /*======= 11. Responsive =======*/
 
  @media (min-width: 768px) {

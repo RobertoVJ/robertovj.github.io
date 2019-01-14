@@ -2253,7 +2253,7 @@ Table of contents
      }
 	/*add to cart responsive 990px*/
 
-	#add-to-cart .cart-sm .cart-bnr h1 {
+	#add-to-cart .cart-sm .cart-bnr h1,#add-to-cart .cart-sm .cart-bnr h1 .tt-br {
 	    font-size: 60px;
 	}
 	.col-lg-6 {
@@ -2523,7 +2523,7 @@ Table of contents
 	margin: 0 auto 10px;
      }
 	/*add to cart responsive 640px*/
-	#add-to-cart .cart-sm .cart-bnr h1 {
+	#add-to-cart .cart-sm .cart-bnr h1,#add-to-cart .cart-sm .cart-bnr h1 .tt-br {
 	    font-size: 45px;
 	}
 	#add-to-cart .cart-sm .cart-bnr h1 img {

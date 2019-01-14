@@ -1838,7 +1838,6 @@ Table of contents
     border-radius: 12px;
     padding: 8px;
     text-transform: uppercase;
-    text-decoration: underline;
 }
 #add-to-cart .cart-sm .cart-bnr .pricing-sec .pricing .prc-box .grn {
     position: absolute;
@@ -1856,7 +1855,6 @@ Table of contents
     padding: 8px;
     text-transform: uppercase;
     font-weight: 600;
-    text-decoration: underline;
 }
 #add-to-cart .cart-sm .cart-bnr .payments {
     margin-top: 60px;
@@ -2014,7 +2012,6 @@ Table of contents
     border-radius: 12px;
     padding: 8px;
     text-transform: uppercase;
-    text-decoration: underline;
 }
 #plans .prc-box .grn {
     position: absolute;
@@ -2032,7 +2029,6 @@ Table of contents
     padding: 8px;
     text-transform: uppercase;
     font-weight: 600;
-    text-decoration: underline;
 }
 #plans .plans-list p {
     font-size: 16px;
@@ -2224,6 +2220,19 @@ Table of contents
     font-weight: 900;
     position: relative;
     margin-bottom: 60px;
+}
+#plans .plans-sec h3 {
+    font-size: 28px;
+    display: block;
+    margin-top: 34px;
+    margin-bottom: 0;
+}
+#plans .plans-sec h3 a:hover {
+    color: #373737;
+}
+#plans .plans-sec h3 a {
+    color: #fff;
+    text-decoration: underline;
 }
  /*======= 11. Responsive =======*/
 

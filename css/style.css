@@ -2338,6 +2338,9 @@ Table of contents
 	    text-align: center;
 	    font-size: 13px;
 	}
+	 #cta-1 h1 {
+	    text-align: center;
+	}
  }
  
  @media (max-width: 767px) {

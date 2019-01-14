@@ -2209,6 +2209,13 @@ Table of contents
 #tsm #testimonials .owl-controls.clickable .owl-page span:hover {
     opacity: 0.8;
 }
+#qa .lst3 .qa-dsc {
+    padding: 10px;
+}
+#qa .lst3 .qa-dsc p {
+    font-size: 85%;
+    line-height: 18px;
+}
  /*======= 11. Responsive =======*/
 
  @media (min-width: 768px) {

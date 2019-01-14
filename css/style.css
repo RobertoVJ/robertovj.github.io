@@ -2229,6 +2229,7 @@ Table of contents
 }
 #plans .plans-sec h3 a:hover {
     color: #373737;
+	transition: all 1s ease-in-out;
 }
 #plans .plans-sec h3 a {
     color: #fff;

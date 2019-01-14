@@ -2607,8 +2607,9 @@ Table of contents
 @media (max-width: 440px) {
 	/*add to cart responsive 440px*/
 
-	#add-to-cart .cart-sm .cart-bnr h1,#add-to-cart .cart-sm .cart-bnr h1 .tt-br {
+	#add-to-cart .cart-sm .cart-bnr h1, #add-to-cart .cart-sm .cart-bnr h1 .tt-br {
 	    font-size: 30px;
+	    padding-top: 0;
 	}
 	#add-to-cart .cart-sm .cart-bnr h1 span {
 	    font-size: 15px;
